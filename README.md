@@ -4,4 +4,4 @@
 
 ### Ekran Goruntusu
 
-![](./assets/s9.gif)
+![](./assets/s10.gif)
